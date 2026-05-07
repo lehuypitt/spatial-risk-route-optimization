@@ -21,8 +21,6 @@ spatial-risk-route-optimization/
 │   └── README.md
 ├── paper/
 │   └── STAT222_Project_Final.pdf
-├── outputs/
-│   └── example figures/results
 ├── .gitignore
 └── README.md
 ```
