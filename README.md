@@ -1,6 +1,12 @@
 # Spatial Risk Forecasting and Route Optimization
 
+**Project type:** UC Berkeley STAT 222 Capstone Project  
+**Status:** Archived academic project; cleaned code version prepared for portfolio use.  
+**Authors:** Huy Le, J.D. Bunker, Rok Jun Lee, Narae Wadsworth
+
 This repository contains cleaned R scripts for a Berkeley STAT 222 project on estimating lower-risk walking routes in San Francisco using historical crime data.
+
+This project developed a statistical framework for estimating lower-risk walking routes in San Francisco using historical reported crime data. We divided downtown San Francisco into 0.1-mile grid cells, fit a zero-inflated negative binomial model to estimate grid-level crime risk, and scored Google Maps route alternatives by the grid cells they crossed.
 
 The project:
 1. divides downtown San Francisco into 0.1-mile grid cells,
